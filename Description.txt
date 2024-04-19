@@ -1,0 +1,2 @@
+# github-training
+This repository covers the basic know how about github and its concepts /features like repositories, branching, commits, resolving conflicts anf collaboration via pull requests.
