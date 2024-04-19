@@ -1,1 +1,5 @@
 Kanza implemented a feature
+<<<<<<< HEAD
+=======
+conflicting change in github-features-branch
+>>>>>>> github-features-branch
